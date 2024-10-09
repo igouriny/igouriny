@@ -1,16 +1,28 @@
-## Hi there 👋
+# Project Title
 
-<!--
-**igouriny/igouriny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+A brief description of the project.
 
-Here are some ideas to get you started:
+## Technologies Used
+- Java
+- TypeScript
+- React
+- Spring Boot
+- MongoDB
+- MySQL
+- Postgres
+- Scrum & Agile
+- Version Control (Git)
+- Jira
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Team Members
+- Ilyass Gouriny ([@your-github-username](https://github.com/your-github-username))
+- [Other team members]
+
+## Installation
+Instructions on how to set up the project locally.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-github-username/repo-name.git
